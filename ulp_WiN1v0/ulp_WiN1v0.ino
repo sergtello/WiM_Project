@@ -94,8 +94,8 @@ const char* file_name =    "/data";         /* Name must start with the '/' char
 RTC_DATA_ATTR char file_name_type[30];
 
 //Timestamp
-const char* ssid       = "sergiot";           /* WiFi credentials */    
-const char* password   = "2hTmhq4t7u2TeN97C49k";
+const char* ssid       = "YOUR_SSID";           /* WiFi credentials */    
+const char* password   = "YOUR_PASSWORD";
 const char* ntpServer = "pool.ntp.org";     /* NTP server selection */
 const char* TimeZone =  "EST+5";            /* Timezone selection */
 
